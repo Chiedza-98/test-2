@@ -1,9 +1,9 @@
 # ============================================================================
 # .github/workflows/ci.yml
 #
-# Author : Chiedza Nyazema (BenNyaruz)
+# Author : Chiedza Nyazema (Chiedza-98)
 # Module : Cloud Application Development - Practical Test 2 (Question 2)
-# Repo   : https://github.com/BenNyaruz/test-2
+# Repo   : https://github.com/Chiedza-98/test-2
 #
 # Complete CI/CD pipeline for the Customers PHP app, hosted on the Vercel PaaS.
 #

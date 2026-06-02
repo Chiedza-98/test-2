@@ -1,8 +1,8 @@
 -- ----------------------------------------------------------------------------
 -- init.sql
--- Author: Chiedza Nyazema (BenNyaruz)
+-- Author: Chiedza Nyazema (Chiedza-98)
 -- Cloud Application Development - Practical Test 2
--- Repository: https://github.com/BenNyaruz/customers-app
+-- Repository: https://github.com/Chiedza-98/customers-app
 --
 -- Creates the customers table referenced by customers.php and seeds it with
 -- a handful of rows so the table renders something meaningful in the browser.

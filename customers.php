@@ -4,9 +4,9 @@ declare(strict_types=1);
 /**
  * customers.php
  *
- * Author : Chiedza Nyazema (BenNyaruz)
- * GitHub : https://github.com/BenNyaruz
- * Email  : bennyaruviro@gmail.com
+ * Author : Chiedza Nyazema (Chiedza-98)
+ * GitHub : https://github.com/Chiedza-98
+ * Email  : everjoynyazema@gmail.com
  * Module : Cloud Application Development
  * Task   : Practical Test 2 - Question 1
  *
@@ -181,7 +181,7 @@ function render_error_page(string $title, string $message): void {
     <header>
         <h1>Customer Records</h1>
         <p class="meta">
-            Author: Chiedza Nyazema (<a href="https://github.com/BenNyaruz">@BenNyaruz</a>) &middot;
+            Author: Chiedza Nyazema (<a href="https://github.com/Chiedza-98">@Chiedza-98</a>) &middot;
             Generated <?= e(date('Y-m-d H:i')) ?> &middot;
             <?= (int) count($customers) ?> record(s)
         </p>

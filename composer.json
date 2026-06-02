@@ -1,14 +1,14 @@
 {
-  "name": "bennyaruz/customers-app",
+  "name": "Chiedza-98/customers-app",
   "description": "Cloud Application Development - Practical Test 2: PHP/PDO customer list",
   "type": "project",
   "license": "MIT",
-  "homepage": "https://github.com/BenNyaruz/customers-app",
+  "homepage": "https://github.com/Chiedza-98/customers-app",
   "authors": [
     {
       "name":     "Chiedza Nyazema",
-      "email":    "bennyaruviro@gmail.com",
-      "homepage": "https://github.com/BenNyaruz",
+      "email":    "everjoynyazema@gmail.com",
+      "homepage": "https://github.com/Chiedza-98",
       "role":     "Developer"
     }
   ],

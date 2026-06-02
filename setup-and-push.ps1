@@ -1,21 +1,21 @@
 # ============================================================================
 # setup-and-push.ps1
 #
-# One-shot setup: initialise git locally under BenNyaruz's identity,
+# One-shot setup: initialise git locally under Chiedza-98's identity,
 # make the initial commit, create the GitHub repo, and push.
 #
 # USAGE (from this folder, in PowerShell):
 #   .\setup-and-push.ps1
 #
-# Defaults are baked in for BenNyaruz <bennyaruviro@gmail.com>. Override
+# Defaults are baked in for Chiedza-98 <everjoynyazema@gmail.com>. Override
 # with -GitHubUser / -RepoName / -Visibility if you ever reuse this script.
 # ============================================================================
 param(
-    [string]$GitHubUser = "BenNyaruz",
+    [string]$GitHubUser = "Chiedza-98",
     [string]$RepoName   = "customers-app",
     [string]$Visibility = "public",
     [string]$UserName   = "Chiedza Nyazema",
-    [string]$UserEmail  = "bennyaruviro@gmail.com"
+    [string]$UserEmail  = "everjoynyazema@gmail.com"
 )
 
 $ErrorActionPreference = "Stop"
