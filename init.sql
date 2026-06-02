@@ -1,6 +1,6 @@
 -- ----------------------------------------------------------------------------
 -- init.sql
--- Author: Benjamin Kudzai Nyaruviro (BenNyaruz)
+-- Author: Chiedza Nyazema (BenNyaruz)
 -- Cloud Application Development - Practical Test 2
 -- Repository: https://github.com/BenNyaruz/customers-app
 --

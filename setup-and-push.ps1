@@ -14,7 +14,7 @@ param(
     [string]$GitHubUser = "BenNyaruz",
     [string]$RepoName   = "customers-app",
     [string]$Visibility = "public",
-    [string]$UserName   = "Benjamin Kudzai Nyaruviro",
+    [string]$UserName   = "Chiedza Nyazema",
     [string]$UserEmail  = "bennyaruviro@gmail.com"
 )
 

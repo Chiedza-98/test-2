@@ -4,7 +4,7 @@ declare(strict_types=1);
 /**
  * customers.php
  *
- * Author : Benjamin Kudzai Nyaruviro (BenNyaruz)
+ * Author : Chiedza Nyazema (BenNyaruz)
  * GitHub : https://github.com/BenNyaruz
  * Email  : bennyaruviro@gmail.com
  * Module : Cloud Application Development
@@ -137,7 +137,7 @@ function render_error_page(string $title, string $message): void {
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <meta name="author" content="Benjamin Kudzai Nyaruviro">
+    <meta name="author" content="Chiedza Nyazema">
     <title>Customer Records</title>
     <style>
         :root {
@@ -181,7 +181,7 @@ function render_error_page(string $title, string $message): void {
     <header>
         <h1>Customer Records</h1>
         <p class="meta">
-            Author: Benjamin Kudzai Nyaruviro (<a href="https://github.com/BenNyaruz">@BenNyaruz</a>) &middot;
+            Author: Chiedza Nyazema (<a href="https://github.com/BenNyaruz">@BenNyaruz</a>) &middot;
             Generated <?= e(date('Y-m-d H:i')) ?> &middot;
             <?= (int) count($customers) ?> record(s)
         </p>
@@ -210,7 +210,7 @@ function render_error_page(string $title, string $message): void {
     </section>
 
     <footer>
-        &copy; <?= e(date('Y')) ?> Benjamin Kudzai Nyaruviro &middot; Cloud Application Development &middot; Practical Test 2
+        &copy; <?= e(date('Y')) ?> Chiedza Nyazema &middot; Cloud Application Development &middot; Practical Test 2
     </footer>
 </body>
 </html>

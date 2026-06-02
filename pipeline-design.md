@@ -1,6 +1,6 @@
 # CI/CD Pipeline Design
 
-**Author:** Benjamin Kudzai Nyaruviro ([@BenNyaruz](https://github.com/BenNyaruz))
+**Author:** Chiedza Nyazema ([@BenNyaruz](https://github.com/BenNyaruz))
 **Module:** Cloud Application Development
 **Task:** Practical Test 2 - Question 2
 

@@ -1,6 +1,6 @@
 # Customers App
 
-**Author:** Benjamin Kudzai Nyaruviro ([@BenNyaruz](https://github.com/BenNyaruz))
+**Author:** Chiedza Nyazema ([@BenNyaruz](https://github.com/BenNyaruz))
 **Module:** Cloud Application Development
 **Task:** Practical Test 2 (Questions 1 and 2)
 **Repository:** <https://github.com/BenNyaruz/test-2>
